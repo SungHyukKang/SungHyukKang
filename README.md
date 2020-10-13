@@ -1,4 +1,4 @@
-<div align:center>
+<div align=center>
 
 <h3>🌱성장중🌱</h3>
 
