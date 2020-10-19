@@ -17,4 +17,4 @@
   
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=tjdgur23)](https://solved.ac/tjdgur23) 
 
-</div> 
+</div>  
