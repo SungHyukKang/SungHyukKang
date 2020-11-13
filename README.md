@@ -9,6 +9,6 @@
 ![SungHyukKang's github stats](https://github-readme-stats.vercel.app/api?username=SungHyukKang&show_icons=true&theme=gruvbox)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SungHyukKang&hide=jupyter%20notebook&layout=compact)[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=tjdgur23)](https://solved.ac/tjdgur23) 
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=tjdgur23)](https://solved.ac/tjdgur23)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SungHyukKang&hide=jupyter%20notebook&layout=compact)
 
 </div>  
